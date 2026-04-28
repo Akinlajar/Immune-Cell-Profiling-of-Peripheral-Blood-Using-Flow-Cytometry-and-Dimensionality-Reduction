@@ -65,4 +65,4 @@ Lucas, C., Wong, P., Klein, J., et al. (2020). *Longitudinal analyses reveal imm
 
 ## Author
 
-**Judah Akinlajar** — Data Scientist
+**Judah Akinlaja** — Data Scientist
